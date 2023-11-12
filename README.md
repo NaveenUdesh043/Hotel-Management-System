@@ -1,2 +1,2 @@
 # Hotel-Management-System
-I made thi Hotel Management System using Java Swing
+I made this Hotel Management System using Java Swing
